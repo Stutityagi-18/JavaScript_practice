@@ -17,5 +17,16 @@ console.log(booleanisloggedin);//true
 let somenumber=33
 
 let stringnumber=String(somenumber);
-console.log(stringnumber);
-console.log(typeof stringnumber);
+// console.log(stringnumber);
+// console.log(typeof stringnumber); 
+
+// ********operations****
+let value=3
+let negvalue=-value;
+console.log(negvalue);
+
+let str1="stuti"
+let str2="tyagi"
+let str3=str1+str2;
+console.log(str3)
+
