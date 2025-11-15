@@ -11,6 +11,7 @@ let booleanisloggedin=Boolean(isloggedin);
 console.log(booleanisloggedin);//true
 //1==true
 //0==false
+
 //""==false
 //"stuti"==true
 let somenumber=33
