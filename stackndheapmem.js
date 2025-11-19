@@ -8,7 +8,7 @@ let anothername=myutubename
 
 anothername="codes";
 
-console.log(anothername);
+console.log(anothername);//in these we were getting copies
 
 let user ={
     email:"tyagi@gmail.com",
@@ -19,5 +19,5 @@ let anotheruser=user;
 
 anotheruser.email="stuti@gmail.com"
 
-console.log(user.email);
+console.log(user.email);//same value will be there for both,here they are referenig to same
 console.log(anotheruser.email);
