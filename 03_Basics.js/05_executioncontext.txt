@@ -1,0 +1,16 @@
+js execution context
+1.global execution context
+2.fucntion execution context
+3.eval execution context
+
+how does js code run?
+1st phase memory creation phase or creation phase=>variables ke liye memory allocate hoti hai
+2nd is execution phase: variale mein value assign hoti hai
+let val1=10
+let val2=5
+function addnum(num1,num2){
+    let ttl=num1+num2
+    return ttl
+}
+let res1=addnum(val1,val2)
+let res2=addnum(10,2) 

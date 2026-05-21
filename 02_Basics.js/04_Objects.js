@@ -54,3 +54,14 @@ const cc ={
 const {cteacher: ct}=cc
 //console.log(cteacher);
 console.log(ct);
+
+// const navbar= ({company}) =>{
+
+// }
+// navbar(company :"amazon")
+
+// {
+//     "name": "stuti",
+//     "cname":"chai or js",
+//     "price":"0"
+// } 
