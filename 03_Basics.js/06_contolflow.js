@@ -103,23 +103,27 @@ const coding=["javascript","python","java","c++"]
 // }
 // coding.forEach(printMe)
 
-const mycod9ing=[
-    {
-        languagename:"js",
-        langfile:"js"
-    },
-    {
-        languagename:"cp",
-        langfile:"c++"
-    },
-    {
-        languagename:"c",
-        langfile:"c"
-    },
 
-]
+// const mycod9ing=[
+//     {
+//         languagename:"js",
+//         langfile:"js"
+//     },
+//     {
+//         languagename:"cp",
+//         langfile:"c++"
+//     },
+//     {
+//         languagename:"c",
+//         langfile:"c"
+//     },
+
+// ]
 
 
-mycod9ing.forEach( (item)=>{
-    console.log(item.langfile);
-})
+// mycod9ing.forEach( (item)=>{
+//     console.log(item.langfile);
+// })
+// output: js
+//         c++
+//         c
